@@ -1,0 +1,17 @@
+#titulo {
+    color: green;
+    text-align: center;
+}
+
+p#descricao {
+    color: blue;
+}
+
+p.promocao {
+    text-align: center;
+    background-color: lightgreen;
+}
+
+.nova {
+    color: white;
+}
